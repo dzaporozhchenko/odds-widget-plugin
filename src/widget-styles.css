@@ -1,0 +1,14 @@
+.error {
+    color: red;
+}
+
+.price-cell {
+    text-align: right;
+}
+.odds-table {
+    color: olive;
+}
+
+.odds-table tbody tr td {
+    border-top: 2px solid olive;
+}
